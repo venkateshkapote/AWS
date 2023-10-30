@@ -3,13 +3,13 @@
 
 **NOTE**: REPLACE YOUR AWS ACCOUNT ID IN THE LAMBDA FUNCTION CODE.
 1. **Create an EC2 Instance**:
-   - You started by launching an Amazon Elastic Compute Cloud (EC2) instance using the AWS Management Console.
+   -  started by launching an Amazon Elastic Compute Cloud (EC2) instance using the AWS Management Console.
 
 2. **Clone Repository from GitHub**:
-   - You used Git to clone your repository from GitHub to your EC2 instance. This allows you to work with your code on the AWS environment.
+   - Used Git to clone your repository from GitHub to your EC2 instance. This allows you to work with your code on the AWS environment.
 
-3. **Execute the File**:
-   - You ran a file or script on your EC2 instance, which might have been part of your project. This could be any executable file.
+3. **Created Ec2 Instance**:
+   -  launched amazon Ec2 Instance.
 
 4. **Create an S3 Bucket**:
    - Using the AWS CLI or Console, you created an Amazon Simple Storage Service (S3) bucket to store objects like files or images.
